@@ -6,7 +6,7 @@ let mailTransporter = nodemailer.createTransport({
     secure: true,
     auth: {
         user: "boazkhalifa@gmail.com",
-        pass: "lhuzgyutlnwymvfx"
+        pass: "lhuzgyutlnwymvf"
     }
 });
 let receivers = ['mugiranezajx@gmail.com','perfect@samphone.co','mugiranezajx@gmail.com'];
